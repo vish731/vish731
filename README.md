@@ -1,20 +1,19 @@
-<h1 align="center">Hey 👋, I'm Gojo </h1>
-<h3 align="center">Frontend Developer | Solidity Builder | Web3 Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Gojo</h1>
+<h3 align="center">Frontend Learner | Exploring Web3</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Smart+Contract+Builder;Building+on+Web3;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Frontend;Exploring+Web3;Building+step+by+step" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎨 Frontend is my comfort zone — I love crafting clean UIs  
-- ⚙️ Backend aata hai, but not my main focus  
-- 🔗 Building smart contracts using Solidity  
-- 🚀 Exploring Web3 & onchain applications daily  
+- 🎨 Learning frontend and improving UI skills  
+- 🔗 Exploring Solidity and Web3  
+- 🚀 Building projects step by step  
 
-> *"Build. Break. Learn. Repeat."*
+> *"Learning in public and growing every day."*
 
 ---
 
@@ -22,27 +21,13 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Backend (Basic)
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🔗 Blockchain / Web3
+### 🔗 Learning
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 </p>
-
----
-
-## 🔥 Web3 Focus
-
-- 🧾 Smart Contract Development (Solidity)  
-- ⚡ Contract Deployment & Testing  
-- 🔍 Learning DeFi & Onchain Logic  
-- 🛠️ Building real-world Web3 projects  
 
 ---
 
@@ -67,4 +52,4 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy building smooth frontends and powerful smart contracts ⚡
+> I enjoy making clean and simple UIs ✨
