@@ -1,99 +1,62 @@
-<div align="center">
+### 👋 Hi, I'm Vish
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,50:4F46E5,100:8B5CF6&section=header&text=Hi%20There,%20I'm%20Vish%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web3%20Builder&descAlignY=55&descSize=18"/>
+📌 Frontend Developer | Web3 Builder
 
-<br/>
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%A8;Web3+%26+Blockchain+Builder+%E2%9A%A1;Crafting+Clean%2C+Fast+UIs+%F0%9F%9A%80;Always+Learning%2C+Never+Stopping+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+### 🚀 About Me
 
-<br/><br/>
+- Frontend-focused engineer, comfortable with **UI architecture, performance, and clean component design**
+- Building in the **blockchain space** with **Solidity** on Ethereum
+- Backend when the project needs it, but **frontend is where I belong**
+- *"Whatever I decide to build, I finish it — no shortcuts."*
 
-<img src="https://profile-counter.glitch.me/vish731/count.svg" alt="Profile Views"/>
+---
 
-<br/><br/>
+### 🛠 Tech Stack
 
-<a href="https://x.com/gojo0204hm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://t.me/gojo0204hm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+**Blockchain**
 
-</div>
+![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<br/>
+**Frontend**
 
-## 👨‍💻 About Me
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-- 🎨 Frontend-focused engineer, passionate about system design, architecture, and writing maintainable code
-- 🔗 Building in the blockchain space (Ethereum) with Solidity
-- ⚙️ While I can do backend when needed, frontend is my comfort zone
-- 💙 *"If I set my mind to build something, I don't stop until it's done."*
+**Backend**
 
-<br/>
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## ⚔️ Tech Stack
+**Languages**
 
-### Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cpp,solidity"/>
-</p>
+---
 
-### Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-</p>
+### 📊 GitHub Stats
 
-### Web3
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ethereum,solidity"/>
-</p>
-
-### Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel"/>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
+<p align="left">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vish731&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish731&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
 <img width="75%" src="https://streak-stats.demolab.com?user=vish731&theme=tokyonight&hide_border=true"/>
-</p>
 
-<br/>
+---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vish731&theme=tokyo-night&hide_border=true"/>
-</p>
 
-<br/>
+---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-<p align="center">
-<a href="https://x.com/gojo0204hm"><img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/gojo0204hm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<div align="center">
-
-### 💙 Infinite Void
-*The strongest developers never stop learning.*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,50:4F46E5,100:8B5CF6"/>
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gojo0204hm)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gojo0204hm)
