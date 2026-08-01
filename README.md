@@ -1,4 +1,3 @@
-Agar premium aur recruiter-friendly GitHub README chahiye, to description ko almost same rakhte hue usko polish kar sakte ho. Tumhare skills (TypeScript, Java, Solidity, CSS, etc.) bhi naturally add kar diye hain.
 
 ```md
 <h1 align="center">Hey 👋, I'm Gojo</h1>
