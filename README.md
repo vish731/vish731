@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,50:4F46E5,100:8B5CF6&section=header&text=Hi%20There,%20I'm%20Vish%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Web3%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00BFFF,50:4F46E5,100:8B5CF6&section=header&text=Hi%20There,%20I'm%20Vish%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web3%20Builder&descAlignY=55&descSize=18"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Web3+%26+Blockchain+Enthusiast+%E2%9A%A1;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Always+Learning%2C+Never+Stopping+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%A8;Web3+%26+Blockchain+Builder+%E2%9A%A1;Crafting+Clean%2C+Fast+UIs+%F0%9F%9A%80;Always+Learning%2C+Never+Stopping+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,29 +23,24 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Vish
-role: Full Stack Developer & Web3 Explorer
-focus: 
-  - Building scalable web applications
-  - Exploring blockchain & smart contracts
-  - Writing clean, efficient code
-currently_learning: Solidity & Advanced System Design
-fun_fact: "The strongest developers never stop learning."
-```
+- 🎨 Frontend-first developer — I love turning ideas into clean, responsive, and fast UIs
+- ⚙️ Comfortable working across the stack when a project needs it, but React & modern frontend tooling is where I thrive
+- 🔗 Exploring the Web3 space, building with Solidity on Ethereum
+- 📚 Currently deep-diving into advanced system design and frontend architecture
+- 💙 *"The strongest developers never stop learning."*
 
 <br/>
 
 ## ⚔️ Tech Stack
 
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cpp,solidity"/>
-</p>
-
 ### Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+</p>
+
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cpp,solidity"/>
 </p>
 
 ### Backend
