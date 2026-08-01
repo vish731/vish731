@@ -11,8 +11,7 @@
 - **Frontend-focused engineer**, comfortable with UI architecture, performance, and clean component design
 - Also explore **AI & ML** — building and experimenting with models
 - Building in the **blockchain space** with **Solidity** on Ethereum
-- Backend when the project needs it, but **frontend is where I belong**
-- *"Whatever I decide to build, I finish it — no shortcuts."*
+- **Always Learning**
 
 ---
 
