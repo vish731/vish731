@@ -23,11 +23,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 Frontend-first developer — I love turning ideas into clean, responsive, and fast UIs
-- ⚙️ Comfortable working across the stack when a project needs it, but React & modern frontend tooling is where I thrive
-- 🔗 Exploring the Web3 space, building with Solidity on Ethereum
-- 📚 Currently deep-diving into advanced system design and frontend architecture
-- 💙 *"The strongest developers never stop learning."*
+- 🎨 Frontend-focused engineer, passionate about system design, architecture, and writing maintainable code
+- 🔗 Building in the blockchain space (Ethereum) with Solidity
+- ⚙️ While I can do backend when needed, frontend is my comfort zone
+- 💙 *"If I set my mind to build something, I don't stop until it's done."*
 
 <br/>
 
