@@ -1,29 +1,28 @@
-### 👋 Hi, I'm Gojo
+![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00BFFF,50:4F46E5,100:8B5CF6&section=header&text=Hi,%20I'm%20Gojo%20👋&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=false&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%A8;AI+%26+ML+Engineer+%F0%9F%A4%96;Web3+Builder+%E2%9A%A1;Always+Learning%2C+Never+Stopping+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00BFFF&center=false&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%A8;AI+%26+ML+Engineer+%F0%9F%A4%96;Web3+Builder+%E2%9A%A1;Always+Learning%2C+Never+Stopping+%F0%9F%94%A5" alt="Typing SVG" />
 
-📌 Frontend Developer | AI/ML Engineer | Web3 Builder
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00BFFF,50:4F46E5,100:8B5CF6&section=header"/>
+📌 **Frontend Developer | AI/ML Engineer | Web3 Builder**
 
 ---
 
-### 🚀 About Me
+### **🚀 About Me**
 
-- Frontend-focused engineer, comfortable with **UI architecture, performance, and clean component design**
-- Also work on **AI & ML** — from model building to integrating intelligence into real products
+- **Frontend-focused engineer**, comfortable with UI architecture, performance, and clean component design
+- Also explore **AI & ML** — building and experimenting with models
 - Building in the **blockchain space** with **Solidity** on Ethereum
 - Backend when the project needs it, but **frontend is where I belong**
 - *"Whatever I decide to build, I finish it — no shortcuts."*
 
 ---
 
-### 🛠 Tech Stack
+### **🛠 Tech Stack**
 
 **Blockchain**
 
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Clarity](https://img.shields.io/badge/CLARITY-5546FF?style=for-the-badge&logo=stacks&logoColor=white)
 
 **Frontend**
 
@@ -51,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### **📊 GitHub Stats**
 
 <p align="left">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vish731&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -62,13 +61,13 @@
 
 ---
 
-### 📈 Contribution Graph
+### **📈 Contribution Graph**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vish731&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-### 🌐 Connect With Me
+### **🌐 Connect With Me**
 
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gojo0204hm)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gojo0204hm)
