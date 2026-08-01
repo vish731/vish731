@@ -1,12 +1,17 @@
-### 👋 Hi, I'm Vish
+### 👋 Hi, I'm Gojo
 
-📌 Frontend Developer | Web3 Builder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00BFFF&center=false&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%A8;AI+%26+ML+Engineer+%F0%9F%A4%96;Web3+Builder+%E2%9A%A1;Always+Learning%2C+Never+Stopping+%F0%9F%94%A5" alt="Typing SVG" />
+
+📌 Frontend Developer | AI/ML Engineer | Web3 Builder
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00BFFF,50:4F46E5,100:8B5CF6&section=header"/>
 
 ---
 
 ### 🚀 About Me
 
 - Frontend-focused engineer, comfortable with **UI architecture, performance, and clean component design**
+- Also work on **AI & ML** — from model building to integrating intelligence into real products
 - Building in the **blockchain space** with **Solidity** on Ethereum
 - Backend when the project needs it, but **frontend is where I belong**
 - *"Whatever I decide to build, I finish it — no shortcuts."*
@@ -25,6 +30,13 @@
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Backend**
 
