@@ -6,7 +6,7 @@
 
 ---
 
-### **🚀 About Me**
+### ** About Me**
 
 - **Frontend-focused engineer**, comfortable with UI architecture, performance, and clean component design
 - Also explore **AI & ML** — building and experimenting with models
@@ -33,8 +33,7 @@
 **AI & ML**
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Backend**
