@@ -1,5 +1,3 @@
-
-```md
 <h1 align="center">Hey 👋, I'm Gojo</h1>
 
 <h3 align="center">
@@ -89,4 +87,4 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 # ⚡ Fun Fact
 
-> I love building clean user experiences, exploring blockchain technologies, and turning ideas into real-world applications.
+> 
